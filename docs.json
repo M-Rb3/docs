@@ -33,27 +33,6 @@
         ]
       },
       {
-        "tab": "Products",
-        "groups": [
-          {
-            "group": "Core Products",
-            "pages": [
-              "products/cent-fx",
-              "products/cent-pay",
-              "products/centxchange"
-            ]
-          },
-          {
-            "group": "Token Platform",
-            "pages": [
-              "products/retail-dashboard",
-              "products/corporate-dashboard",
-              "products/admin-panel"
-            ]
-          }
-        ]
-      },
-      {
         "tab": "$CENT Token",
         "groups": [
           {
