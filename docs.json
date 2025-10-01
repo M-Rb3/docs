@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Cent Ecosystem",
+  "name": "whitepaper",
   "colors": {
     "primary": "#F7941B",
     "light": "#F7941B",
@@ -100,7 +100,7 @@
         {
           "anchor": "App",
           "href": "https://www.centtoken.io",
-          "icon": "app-window"
+          "icon": "rocket"
         },
         {
           "anchor": "Token",
