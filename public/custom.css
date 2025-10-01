@@ -4,20 +4,3 @@
   height: auto !important;
 }
 
-/* Alternative selector if the above doesn't work */
-[data-testid="nav-logo"] img {
-  width: 200px !important;
-  height: auto !important;
-}
-
-/* Another alternative selector */
-.nav-brand img {
-  width: 200px !important;
-  height: auto !important;
-}
-
-/* Target the logo container */
-.logo-container img {
-  width: 200px !important;
-  height: auto !important;
-}
